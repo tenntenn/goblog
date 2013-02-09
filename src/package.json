@@ -1,0 +1,29 @@
+{
+  "author": "Takuya Ueda <uedatakuya@gmail.com> (http://u.hinoichi.net)",
+  "name": "goblog",
+  "description": "simple blog system made by golang.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tenntenn/goblog.git",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tenntenn/goblog.git"
+  },
+  "engines": {
+    "node": "~0.6.10"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.3.17",
+    "grunt-requirejs": "~0.2.14",
+    "grunt-contrib-yuidoc": "~0.3.2",
+    "phantomjs": "~0.0.2",
+	"grunt-shell": "~0.1.3"
+  },
+  "optionalDependencies": {},
+  "licenses": [
+    {
+      "type": "WTFPL v2",
+      "url": "http://www.wtfpl.net/txt/copying/"
+    }
+  ]
+}
